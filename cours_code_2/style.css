@@ -1,0 +1,41 @@
+/* style.css */
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: Arial;}
+
+#title{
+  font-size: 50px;
+  font-family: 'faster one', cursive;
+}
+
+#title:hover{
+  color: pink;
+}
+
+#link{
+  font-family: Arial;
+  font-size: 30px;
+  color: black;
+}
+
+h1{
+  font-family: Arial;
+  color: blue;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Arial;
+  color: black;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
